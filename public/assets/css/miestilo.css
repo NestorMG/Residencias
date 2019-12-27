@@ -1,0 +1,20 @@
+.body{
+    background-color: black;
+}
+.container{
+    background-color: lightgreen;
+    margin-top: 25px;
+   text-align: center;
+}
+.navbar{
+    background-color: blue;
+}
+.row{
+    padding-top: 30px;
+}
+.carousel-item{
+    height: 400px;
+}
+div#lis{
+  background-clip: red;
+}
